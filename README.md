@@ -1713,3 +1713,43 @@ https://github.com/yang-shuohao/Render-Booksgithub.com
 ### 21、增强实体行为的控制系统（A Control System for Enhancing Entity Behavior）
 
 ### 22、基于控制系统的实体行为的方法（A Control System Based Approach to Entity Behavior）
+
+## GPU Pro 7：高级渲染技术 （GPU Pro 7: Advanced Rendering Techniques ）
+
+![img](https://pica.zhimg.com/80/v2-91ee7dcc3e5f22b24209f717f11f4406_720w.jpeg)
+
+
+
+### 1、《古墓丽影:崛起》延迟积雪变形（Deferred Snow Deformation in Rise of the Tomb Raider）
+
+### 2、Catmull-Clark细分表面（Catmull-Clark Subdivision Surfaces）
+
+### 3、集群着色：在DirectX 12中使用保守栅格化分配灯光（Clustered Shading: Assigning Lights Using Conservative Rasterization in DirectX 12）
+
+### 4、精心修剪的平铺灯列表（Fine Pruned Tiled Light Lists）
+
+### 5、延迟属性插值着色（Deferred Attribute Interpolation Shading）
+
+### 6、实时的体积云朵景观（Real-Time Volumetric Cloudscapes）
+
+### 7、自适应的虚拟纹理（Adaptive Virtual Textures）
+
+### 8、延迟粗像素着色（Deferred Coarse Pixel Shading）
+
+### 9、使用多帧采样的渐进渲染（Progressive Rendering Using Multi-frame Sampling）
+
+### 10、基于静态局部立体图的高效软阴影（Efficient Soft Shadows Based on Static Local Cubemap）
+
+### 11、基于物理的移动延迟着色（Physically Based Deferred Shading on Mobile）
+
+### 12、交互式电影粒子（Interactive Cinematic Particles）
+
+### 13、在GPU上进行实时BC6H压缩（Real-Time BC6H Compression on GPU）
+
+### 14、用于Forza系列测试自动化的3D可视化工具（A 3D Visualization Tool Used for Test Automation in the Forza Series）
+
+### 15、在异构的多个GPU上实现低延迟光线追踪的半静态负载平衡（Semi-static Load Balancing for Low-Latency Ray Tracing on Heterogeneous Multiple GPUs）
+
+### 16、从深度相机八叉树映射（Octree Mapping from a Depth Camera）
+
+### 17、交互式稀疏欧拉流体（Interactive Sparse Eulerian Fluid）
