@@ -1753,3 +1753,99 @@ https://github.com/yang-shuohao/Render-Booksgithub.com
 ### 16、从深度相机八叉树映射（Octree Mapping from a Depth Camera）
 
 ### 17、交互式稀疏欧拉流体（Interactive Sparse Eulerian Fluid）
+
+## 游戏和互动应用的基本数学，第三版（Essential Mathematics for Games and Interactive Applications, Third Edition）
+
+![img](https://pic2.zhimg.com/80/v2-3b826bbd372ec12920e892fa233d5e1f_720w.jpeg?source=d16d100b)
+
+
+
+
+
+### 1、实数的表示（Representing Real Numbers）
+
+### 2、向量和点（Vectors and Points）
+
+### 3、线性变换和矩阵（Linear Transformations and Matrices）
+
+### 4、仿生变换（Affine Transformations）
+
+### 5、定向表示（Orientation Representation）
+
+### 6、插值（Interpolation）
+
+### 7、 观察和投射（Viewing and Projection）
+
+### 8、几何学和可编程的着色（Geometry and Programmable Shading）
+
+### 9、光照（Lighting）
+
+### 10、光栅化（Rasterization）
+
+### 11、 随机数（Random Numbers）
+
+### 12、相交测试（Intersection Testing）
+
+### 13、刚体动力学（Rigid- Body Dynamics）
+
+## GPU Pro 6：高级渲染技术（GPU Pro 6: Advanced Rendering Techniques）
+
+![img](https://pica.zhimg.com/80/v2-edb35fead508fc0ac06ea2944dbf7f54_720w.jpeg?source=d16d100b)
+
+
+
+
+
+### 1、动态GPU地形（Dynamic GPU Terrain）
+
+### 2、通过细分化在GPU中实现带宽高效的程序性网格（Bandwidth-Efficient Procedural Meshes in the GPU via Tessellation）
+
+### 3、物体碰撞时细分表面的实时变形（Real-Time Deformation of Subdivision Surfaces on Object Collisions）
+
+### 4、游戏中真实的体积爆炸（Realistic Volumetric Explosions in Games）
+
+### 5、《Thief》的下一代渲染（Next-Generation Rendering in Thief）
+
+### 6、使用LOD的草地渲染和模拟（Grass Rendering and Simulation with LOD）
+
+### 7、混合重建抗锯齿（Hybrid Reconstruction Antialiasing）
+
+### 8、使用预先计算的散射对基于物理的云进行实时渲染（Real-Time Rendering of Physically Based Clouds Using Precomputed Scattering）
+
+### 9、稀疏程序化体渲染（Sparse Procedural Volume Rendering）
+
+### 10、通过灯光链接列表的实时照明（Real-Time Lighting via Light Linked List）
+
+### 11、延迟归一化的辐照度探针（Deferred Normalized Irradiance Probes）
+
+### 12、体积雾和照明（Volumetric Fog and Lighting）
+
+### 13、在GPU上基于物理的光探针生成（Physically Based Light Probe Generation on GPU）
+
+### 14、使用切片的实时全局照明（Real-Time Global Illumination Using Slices）
+
+### 15、实用的屏幕空间软阴影（Practical Screen-Space Soft Shadows）
+
+### 16、基于瓦片的全向阴影（Tile-Based Omnidirectional Shadows）
+
+### 17、阴影贴图轮廓的重新矢量化（Shadow Map Silhouette Revectorization）
+
+### 18、在PowerVR GPU上的混合光线追踪（Hybrid Ray Tracing on a PowerVR GPU）
+
+### 19、用ASTC三维纹理和OpenGL ES 3.0实现纯GPU的粒子碰撞系统（Implementing a GPU-Only Particle-Collision System with ASTC 3D Textures and OpenGL ES 3.0）
+
+### 20、用于移动设备的带壳毛皮动画人物（Animated Characters with Shell Fur for Mobile Devices）
+
+### 21、移动GPU上的高动态范围计算摄影（High Dynamic Range Computational Photography on Mobile GPUs）
+
+### 22、基于计算的平铺式剔除法（Compute-Based Tiled Culling）
+
+### 23、在GPU光线追踪器中渲染矢量位移映射的表面（Rendering Vector Displacement-Mapped Surfaces in a GPU Ray Tracer）
+
+### 24、 用于体积渲染的平滑概率环境遮蔽法（Smooth Probabilistic Ambient Occlusion for Volume Rendering）
+
+### 25、用于快速射线投射操作的块状线性二进制网格（Block-Wise Linear Binary Grids for Fast Ray-Casting Operations）
+
+### 26、使用Shader Shaker生成基于语义的着色器（Semantic-Based Shader Generation Using Shader Shaker）
+
+### 27、ANGLE：将OpenGL ES带入桌面（ANGLE: Bringing OpenGL ES to the Desktop）
