@@ -1849,3 +1849,57 @@ https://github.com/yang-shuohao/Render-Books
 ### 26、使用Shader Shaker生成基于语义的着色器（Semantic-Based Shader Generation Using Shader Shaker）
 
 ### 27、ANGLE：将OpenGL ES带入桌面（ANGLE: Bringing OpenGL ES to the Desktop）
+
+## WebGL Insights（WebGL Insights）
+
+![img](https://pic3.zhimg.com/80/v2-f990a9d2227310adbb9b42e95261e359_720w.jpeg)
+
+
+
+
+
+### 1、ANGLE : WebGL的桌面基础（ANGLE : A Desktop Foundation for WebGL）
+
+### 2、Mozilla对WebGL的实现（Mozilla’s Implementation of WebGL）
+
+### 3、对Chrome的WebGL实现进行持续测试（Continuous Testing of Chrome’s WebGL Implementation）
+
+### 4、认真学习JavaScript（Getting Serious with JavaScript）
+
+### 5、Emscripten和WebGL（Emscripten and WebGL）
+
+### 6、用WebGL进行数据可视化：从Python到JavaScript（Data Visualization with WebGL : From Python to JavaScript）
+
+### 7、用WebGL讲授计算机图形学入门课程（Teaching an Introductory Computer Graphics Course with WebGL）
+
+### 8、无缺陷和快速的移动WebGL（Bug-Free and Fast Mobile WebGL）
+
+### 9、Babylon.js中的WebGL引擎设计（WebGL Engine Design in Babylon.js）
+
+### 10、Turbulenz引擎的渲染优化（Rendering Optimizations in the Turbulenz Engine）
+
+### 11、Blend4Web中的性能和渲染算法（Performance and Rendering Algorithms in Blend4Web）
+
+### 12、Sketchfab材质管道：从文件变化到着色器生成（Sketchfab Material Pipeline : From File Variations to Shader Generation）
+
+### 13、glslify : GLSL的模块系统（glslify : A Module System for GLSL）
+
+### 14、预算编制框架时间（Budgeting Frame Time）
+
+### 15、Luma中的延迟着色（Deferred Shading in Luma）
+
+### 16、网络上基于HDR图像的照明技术（HDR Image-Based Lighting on the Web）
+
+### 17、WebGL的实时体积照明（Real-Time Volumetric Lighting for WebGL）
+
+### 18、地形几何-LOD自适应同心圆环（Terrain Geometry—LOD Adapting Concentric Rings）
+
+### 19、使用WebGL的数据可视化技术（Data Visualization Techniques with WebGL）
+
+### 20、hare3d-在浏览器中渲染大型模型（hare3d—Rendering Large Models in the Browser）
+
+### 21、BrainBrowser Surface Viewer : 基于WebGL的神经学数据可视化（The BrainBrowser Surface Viewer : WebGL-Based Neurological Data Visualization）
+
+### 22、WebGL应用程序的可用性（Usability of WebGL Applications）
+
+### 23、为WebGL应用程序设计相机（Designing Cameras for WebGL Applications）
