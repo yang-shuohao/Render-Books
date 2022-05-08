@@ -14,7 +14,7 @@
 
 **所有书籍PDF将全部上传到Github上面，方便广大好友下载学习。**
 
-https://github.com/yang-shuohao/Render-Booksgithub.com
+https://github.com/yang-shuohao/Render-Books
 
 ## **计算机图形学基础，第5版（Fundamentals of Computer Graphics, 5th Edition）**
 
