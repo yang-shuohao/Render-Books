@@ -1903,3 +1903,89 @@ https://github.com/yang-shuohao/Render-Books
 ### 22、WebGL应用程序的可用性（Usability of WebGL Applications）
 
 ### 23、为WebGL应用程序设计相机（Designing Cameras for WebGL Applications）
+
+## 视觉效果的多线程（Multithreading for Visual Effects）
+
+![img](https://pic1.zhimg.com/80/v2-259438fdd2cbbe8ac296fae15528d9fb_720w.jpeg?source=d16d100b)
+
+
+
+
+
+### 1、 介绍和概述（Introduction and Overview）
+
+### 2、胡迪尼：多线程现有的软件（Houdini: Multithreading Existing Software）
+
+### 3、优秀的执行系统：为多线程设计（The Presto Execution System: Designing for Multithreading）
+
+### 4、 LibEE: 字符串的并行评估（LibEE: Parallel Evaluation of Character Rigs）
+
+### 5、流体：在CPU上进行模拟（Fluids: Simulation on the CPU）
+
+### 6、 子弹物理学：用OpenCL进行模拟（Bullet Physics: Simulation with OpenCL）
+
+### 7、OpenSubdiv:GPU计算和绘图的互操作性（OpenSubdiv: Interoperating GPU Compute and Drawing）
+
+## GPU Pro 5：高级渲染技术 （GPU Pro 5: Advanced Rendering Techniques ）
+
+![img](https://pic3.zhimg.com/80/v2-c4438affec82f6e537371f59f10da42e_720w.jpeg)
+
+
+
+
+
+### 1、单通道A缓冲区的每像素列表（Per-Pixel Lists for Single Pass A-Buffer）
+
+### 2、通过双通道颜色编码减少纹理的内存使用量（Reducing Texture Memory Usage by 2-Channel Color Encoding）
+
+### 3、基于粒子的材料老化模拟（Particle-Based Simulation of Material Aging）
+
+### 4、基于光栅化的简单液体（Simple Rasterization-Based Liquids）
+
+### 5、基于物理的区域灯（Physically Based Area Lights）
+
+### 6、使用表极采样的高性能室外光散射技术（High Performance Outdoor Light Scattering Using Epipolar Sampling）
+
+### 7、杀戮地带中的体积光效应：影子坠落（Volumetric Light Effects in Killzone: Shadow Fall）
+
+### 8、高阻隔屏幕空间锥体跟踪反射（Hi-Z Screen-Space Cone-Traced Reflections）
+
+### 9、TressFX：先进的实时头发渲染（TressFX: Advanced Real-Time Hair Rendering）
+
+### 10、电线抗锯齿（Wire Antialiasing）
+
+### 11、屏幕-空间-草（Screen-Space Grass）
+
+### 12、通过CSG的屏幕空间可变形网格与每像素链接列表（Screen-Space Deformable Meshes via CSG with Per-Pixel Linked Lists）
+
+### 13、 SPU上的虚化效果（Bokeh Effects on the SPU）
+
+### 14、在移动端进行逼真的实时皮肤渲染（Realistic Real-Time Skin Rendering on Mobile）
+
+### 15、移动设备上的延迟渲染技术（Deferred Rendering Techniques on Mobile Devices）
+
+### 16、使用ARM® Mali™ GPU的带宽效率图形（Bandwidth Efficient Graphics with ARM® Mali™ GPUs）
+
+### 17、使用OpenGL ES 3.0的高效变形目标动画（Efficient Morph Target Animation Using OpenGL ES 3.0）
+
+### 18、分块延迟模糊（Tiled Deferred Blending）
+
+### 19、自适应可扩展的纹理压缩（Adaptive Scalable Texture Compression）
+
+### 20、为ARM® Mali™-T600 GPU优化OpenCL内核（Optimizing OpenCL Kernels for the ARM® Mali™-T600 GPUs）
+
+### 21、重新认识四元数（Quaternions Revisited）
+
+### 22、glTF：设计一个开放标准的运行时资产格式（glTF: Designing an Open-Standard Runtime Asset Format）
+
+### 23、管理层次结构中的转变（Managing Transformations in Hierarchy）
+
+### 24、TressFX的头发模拟（Hair Simulation in TressFX）
+
+### 25、全动态场景的物序光线追踪（Object-Order Ray Tracing for Fully Dynamic Scenes）
+
+### 26、GPU上的四叉树（Quadtrees on the GPU）
+
+### 27、用于GPU上刚体仿真的两级约束求解器和流水线本地批处理（Two-Level Constraint Solver and Pipelined Local Batching for Rigid Body Simulation on GPUs）
+
+### 28、用CUDA进行不可分割的2D、3D和4D过滤（Non-separable 2D, 3D, and 4D Filtering with CUDA）
