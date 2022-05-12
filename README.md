@@ -2019,3 +2019,55 @@ https://github.com/yang-shuohao/Render-Books
 ### 10、动画（Animation）
 
 ### 11、多通道渲染（Multi-Pass Rendering）
+
+## 用DirectX和HLSL进行实时3D渲染（Real-Time 3D Rendering with DirectX and HLSL）
+
+![img](https://pic3.zhimg.com/80/v2-6db23b0f866470d888d7263ec95120df_720w.jpeg)
+
+
+
+
+
+### 1、介绍DirectX（Introducing DirectX）
+
+### 2、 3D/数学入门（A 3D/Math Primer）
+
+### 3、行业工具（Tools of the Trade）
+
+### 4、你好,着色器!（Hello, Shaders!）
+
+### 5、纹理映射（Texture Mapping）
+
+### 6、 照明模型（Lighting Models）
+
+### 7、额外的照明模式（Additional Lighting Models）
+
+### 8、为立方体增光添彩（Gleaming the Cube）
+
+### 9、法线映射和位移映射（Normal Mapping and Displacement Mapping）
+
+### 10、项目设置和窗口初始化（Project Setup and Window Initialization）
+
+### 11、Direct3D初始化（Direct3D Initialization）
+
+### 12、支持性系统（Supporting Systems）
+
+### 13、摄像机（Cameras）
+
+### 14、你好，渲染!（Hello, Rendering!）
+
+### 15、模型（Models）
+
+### 16、材质（Materials）
+
+### 17、光照（Lights）
+
+### 18、后期处理（Post-Processing）
+
+### 19、阴影映射（Shadow Mapping）
+
+### 20、骨骼动画（Skeletal Animation）
+
+### 21、几何和镶嵌着色器（Geometry and Tessellation Shaders）
+
+### 22、现代渲染的其他主题
