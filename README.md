@@ -2070,4 +2070,106 @@ https://github.com/yang-shuohao/Render-Books
 
 ### 21、几何和镶嵌着色器（Geometry and Tessellation Shaders）
 
-### 22、现代渲染的其他主题
+### 22、现代渲染的其他主题（Additional Topics in Modern Rendering）
+
+## 交互式计算机图形学：使用WebGL的自上而下的方法（Interactive Computer Graphics: A Top-Down Approach with WebGL）
+
+![img](https://pic2.zhimg.com/80/v2-a34616c8ec772f3ac7f0733ca48e1c82_720w.jpeg)
+
+
+
+
+
+### 1、图形系统和模型（GRAPHICS SYSTEMS AND MODELS）
+
+### 2、图形编程（GRAPHICS PROGRAMMING）
+
+### 3、交互和动画（INTERACTION AND ANIMATION）
+
+### 4、几何物体和变换（GEOMETRIC OBJECTS AND TRANSFORMATIONS）
+
+### 5、视图（VIEWING）
+
+### 6、照明和阴影（LIGHTING AND SHADING）
+
+### 7、离散技术（DISCRETE TECHNIQUES）
+
+### 8、从几何图形到像素（FROM GEOMETRY TO PIXELS）
+
+### 9、建模和层次结构（MODELING AND HIERARCHY）
+
+### 10、程序方法（PROCEDURAL METHODS）
+
+### 11、曲线和曲面（CURVES AND SURFACES）
+
+### 12、高级渲染（ADVANCED RENDERING）
+
+## OpenGL ES 3.0编程指南（OpenGL ES 3.0 Programming Guide）
+
+![img](https://pic1.zhimg.com/80/v2-ae36311a466ff6cc4cf94b5553b40e74_720w.jpeg)
+
+
+
+
+
+### 1、OpenGL ES 3.0介绍（Introduction to OpenGL ES 3.0）
+
+### 2、Hello Triangle: 一个OpenGL ES 3.0的例子（Hello Triangle: An OpenGL ES 3.0 Example）
+
+### 3、EGL简介（An Introduction to EGL）
+
+### 4、着色器和程序（Shaders and Programs）
+
+### 5、OpenGL ES着色语言（OpenGL ES Shading Language）
+
+### 6、顶点属性、顶点数组和缓冲区对象（Vertex Attributes, Vertex Arrays, and Buffer Objects）
+
+### 7、图元装配和光栅化（Primitive Assembly and Rasterization）
+
+### 8、顶点着色器（Vertex Shaders）
+
+### 9、纹理（Texturing）
+
+### 10、片段着色器（Fragment Shaders）
+
+### 11、片段操作（Fragment Operations）
+
+### 12、帧缓冲器对象（Framebuffer Objects）
+
+### 13、同步对象和围栏（Sync Objects and Fences）
+
+### 14、用OpenGL ES 3.0进行高级编程（Advanced Programming with OpenGL ES 3.0）
+
+### 15、状态查询（State Queries）
+
+### 16、OpenGL ES平台（OpenGL ES Platforms）
+
+## Direct3D 渲染手册（Direct3D Rendering Cookbook）
+
+![img](https://pic2.zhimg.com/80/v2-172b4e58270a9303addb0319681d5e12_720w.jpeg)
+
+
+
+
+
+### 1、开始使用Direct3D（Getting Started with Direct3D）
+
+### 2、用Direct3D进行渲染（Rendering with Direct3D）
+
+### 3、渲染网格（Rendering Meshes）
+
+### 4、用顶点蒙皮制作动画的网格（Animating Meshes with Vertex Skinning）
+
+### 5、应用硬件镶嵌技术（Applying Hardware Tessellation）
+
+### 6、用法线和位移贴图添加表面细节（Adding Surface Detail with Normal and Displacement Mapping）
+
+### 7、执行图像处理技术（Performing Image Processing Techniques）
+
+### 8、融入物理学和模拟（Incorporating Physics and Simulations）
+
+### 9、在多线程和延迟上下文中进行渲染（Rendering on Multiple Threads and Deferred Contexts）
+
+### 10、 实现延迟渲染（Implementing Deferred Rendering）
+
+### 11、将Direct3D与XAML和Windows 8.1结合起来（Integrating Direct3D with XAML and Windows 8.1）
