@@ -1989,3 +1989,33 @@ https://github.com/yang-shuohao/Render-Books
 ### 27、用于GPU上刚体仿真的两级约束求解器和流水线本地批处理（Two-Level Constraint Solver and Pipelined Local Batching for Rigid Body Simulation on GPUs）
 
 ### 28、用CUDA进行不可分割的2D、3D和4D过滤（Non-separable 2D, 3D, and 4D Filtering with CUDA）
+
+## 安东的OpenGL 4教程 （Anton's OpenGL 4 Tutorials ）
+
+![img](https://pic1.zhimg.com/80/v2-8c1995c1ac977d41432346e352dc60a9_720w.jpeg)
+
+
+
+
+
+### 1、简介（Introduction）
+
+### 2、基础知识（Basics）
+
+### 3、变换（Transformation）
+
+### 4、光照和纹理图（Lighting and Texture Maps）
+
+### 5、提示和技巧（Tips and Tricks）
+
+### 6、网格文件（Mesh Files ）
+
+### 7、更高级的照明和纹理效果（More Advanced Lighting and Texture Effects）
+
+### 8、新的着色器阶段（New Shader Stages）
+
+### 9、2d 渲染（2d Rendering）
+
+### 10、动画（Animation）
+
+### 11、多通道渲染（Multi-Pass Rendering）
