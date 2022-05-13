@@ -2173,3 +2173,63 @@ https://github.com/yang-shuohao/Render-Books
 ### 10、 实现延迟渲染（Implementing Deferred Rendering）
 
 ### 11、将Direct3D与XAML和Windows 8.1结合起来（Integrating Direct3D with XAML and Windows 8.1）
+
+## 3D计算机图形实用算法第二版（Practical Algorithms for 3D Computer Graphics 2nd Edition）
+
+![img](https://pic3.zhimg.com/80/v2-4ae8da7741f497e494ced93cf08e2489_720w.jpeg)
+
+
+
+
+
+### 1、简介（Introduction）
+
+### 2、基本理论和数学结果（Basic theory and mathematical results）
+
+### 3、三维图形的数据结构（Data structures for 3D graphics）
+
+### 4、基本的可视化（Basic visualization）
+
+### 5、逼真的视觉效果（Realistic visualization）
+
+### 6、计算机动画（Computer animation）
+
+### 7、实时3D：OpenGL（Real-time 3D: OpenGL）
+
+### 8、 移动3D: OpenGLES（Mobile 3D: OpenGLES）
+
+### 9、完整的软件包:OpenFX（The complete package: OpenFX）
+
+### 10、用多边形数据集进行建模（Modeling with polygonal datasets）
+
+### 11、程序性纹理的算法（Algorithms for procedural textures）
+
+## OpenGL 4着色语言手册--第三版（OpenGL 4 Shading Language Cookbook - Third Edition）
+
+![img](https://pic3.zhimg.com/80/v2-f8a5cc587a62468cd9a151702f50c045_720w.jpeg)
+
+
+
+
+
+### 1、开始使用GLSL（Getting Started with GLSL）
+
+### 2、与GLSL程序一起工作（Working with GLSL Programs）
+
+### 3、GLSL着色器的基础知识（The Basics of GLSL Shaders）
+
+### 4、光照和着色（Lighting and Shading）
+
+### 5、使用纹理（Using Textures）
+
+### 6、图像处理和屏幕空间技术（Image Processing and Screen Space Techniques）
+
+### 7、使用几何和镶嵌着色器（Using Geometry and Tessellation Shaders）
+
+### 8、阴影（Shadows）
+
+### 9、在着色器中使用噪声（Using Noise in Shaders）
+
+### 10、粒子系统和动画（Particle Systems and Animation）
+
+### 11、使用计算着色器（Using Compute Shaders）
