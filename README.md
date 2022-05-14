@@ -2233,3 +2233,49 @@ https://github.com/yang-shuohao/Render-Books
 ### 10、粒子系统和动画（Particle Systems and Animation）
 
 ### 11、使用计算着色器（Using Compute Shaders）
+
+## 计算机图形学：从像素到可编程的图形硬件（Computer Graphics : From Pixels to Programmable Graphics Hardware）
+
+![img](https://pic1.zhimg.com/80/v2-7e553a46476185088eb7ffeae3bc2f6c_720w.jpeg)
+
+
+
+
+
+### 1、导言：基本概念（Introduction: Basic concepts）
+
+### 2、二维变换（Transforms in 2D）
+
+### 3、二维几何算法（Geometric algorithms in 2D）
+
+### 4、三维变换、投影、四元数（Transformations in 3D, projections,quaternions）
+
+### 5、 基本光栅算法（Basic raster algorithms）
+
+### 6、颜色和颜色模型（Color and color models）
+
+### 7、用于OpenGL渲染的基础知识freeglut和GLEW（Basics freeglut and GLEW forOpenGL rendering）
+
+### 8、隐藏表面去除（Hidden surface removal）
+
+### 9、现代OpenGL：开始（Modern OpenGL: The beginning）
+
+### 10、处理大型二维/三维数据集（Working with large 2D/3D data sets）
+
+### 11、曲线和曲面：几何建模（Curves and surfaces: Geometricmodeling）
+
+### 12、动画的基础知识（Basics of animation）
+
+### 13、光照模型（Lighting models）
+
+### 14、高级OpenGL（Advanced OpenGL）
+
+### 15、GPU图像处理（GPU image processing）
+
+### 16、OpenGL中的特殊效果（Special effects in OpenGL）
+
+### 17、GPGPU的基础知识（Basics of GPGPU）
+
+### 18、程序化纹理和建模的要素（Elements of procedural texturing andmodeling）
+
+### 19、非写实渲染(NPR)（Non-Photorealistic Rendering (NPR)）
