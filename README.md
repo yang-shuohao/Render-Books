@@ -2279,3 +2279,133 @@ https://github.com/yang-shuohao/Render-Books
 ### 18、程序化纹理和建模的要素（Elements of procedural texturing andmodeling）
 
 ### 19、非写实渲染(NPR)（Non-Photorealistic Rendering (NPR)）
+
+## 计算机中的视觉魔法的历史：美丽的图像是如何在CAD、3D、VR和AR中产生的 （The History of Visual Magic in Computers: How Beautiful Images are Made in CAD, 3D, VR and AR ）
+
+![img](https://pic3.zhimg.com/80/v2-64079a75dd8f77fd5eb888d43888acca_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、进入3D领域（Getting to 3D）
+
+### 3、开发三维软件（Developing the 3D Software）
+
+### 4、开发应用程序（Developing the Applications）
+
+### 5、 开发计算机（Developing the Computer）
+
+### 6、三维控制器的发展（The Development of 3D Controllers）
+
+### 7、显示屏的发展：了解3D（Development of Displays: Getting to See 3D）
+
+### 8、 计算机中的立体三维（Stereoscopic 3D in Computers）
+
+### 9、未来（The Future）
+
+## 学习OpenGL ES：用于移动游戏和图形开发（Learn OpenGL ES: For Mobile Game and Graphics Development）
+
+![img](https://pic2.zhimg.com/80/v2-3a7d4ec02681bae6d57518b1ef9af781_720w.jpeg)
+
+
+
+
+
+### 1、新API的好处（Benefits of the New API）
+
+### 2、实施的先决条件（Implementation Prerequisites）
+
+### 3、ES 2.0基础知识（ES 2.0 Fundamentals）
+
+### 4、 三维建模（3D Modeling）
+
+### 5、纹理和着色（Texturing and Shading）
+
+### 6、领先发展（Taking the Development Ahead）
+
+## 计算机图形学：原则与实践 第三版（Computer Graphics: Principles and Practice 3rd Edition）
+
+![img](https://pic3.zhimg.com/80/v2-3d2b6036ce5c639b9d2b5f53cb978e35_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、使用WPF的2D图形简介（Introduction to 2D Graphics Using WPF）
+
+### 3、现代化的古老渲染器（An Ancient Renderer Made Modern）
+
+### 4、一个二维图形测试台（A 2D Graphics Test Bed）
+
+### 5、人类视觉感知简介（An Introduction to Human Visual Perception）
+
+### 6、固定功能三维图形和层次建模入门（Introduction to Fixed-Function 3D Graphics and Hierarchical Modeling）
+
+### 7、基本数学和2-空间和3-空间的几何学（Essential Mathematics and the Geometry of 2-Space and 3-Space）
+
+### 8、在二维和三维中描述形状的一种简单方法（A Simple Way to Describe Shape in 2D and 3D）
+
+### 9、在网格上的函数（Functions on Meshes）
+
+### 10、二维空间的变换（Transformations in Two Dimensions）
+
+### 11、三维空间的变换（Transformations in Three Dimensions）
+
+### 12、 一个用于图形的二维和三维变换库（A 2D and 3D Transformation Library for Graphics）
+
+### 13、摄像机规格和变换（Camera Specifications and Transformations）
+
+### 14、标准近似值和表示法（Standard Approximations and Representations）
+
+### 15、 光线投射和光栅化（Ray Casting and Rasterization）
+
+### 16、实时三维图形平台概述（Survey of Real-Time 3D Graphics Platforms）
+
+### 17、图像表示和处理（Image Representation and Manipulation）
+
+### 18、 图像和信号处理（Images and Signal Processing）
+
+### 19、放大和缩小图像（Enlarging and Shrinking Images）
+
+### 20、纹理和纹理映射（Textures and Texture Mapping）
+
+### 21、交互技术（Interaction Techniques）
+
+### 22、样条曲线和细分曲线（Splines and Subdivision Curves）
+
+### 23、样条和细分曲面（Splines and Subdivision Surfaces）
+
+### 24、形状的隐式表示（Implicit Representations of Shape）
+
+### 25、网格（Meshes）
+
+### 26、光照（Light）
+
+### 27、材质和散射（Materials and Scattering）
+
+### 28、颜色（Color）
+
+### 29、光传输（Light Transport）
+
+### 30、概率和蒙特卡洛积分（Probability and Monte Carlo Integration）
+
+### 31、渲染方程的计算解决方案：理论方法（Computing Solutions to the Rendering Equation: Theoretical Approaches）
+
+### 32、渲染的实践（Rendering in Practice）
+
+### 33、着色（Shaders）
+
+### 34、富有表现力的渲染（Expressive Rendering）
+
+### 35、运动（Motion）
+
+### 36、可见度的确定（Visibility Determination）
+
+### 37、 空间数据结构（Spatial Data Structures）
+
+### 38、现代图形硬件（Modern Graphics Hardware）
