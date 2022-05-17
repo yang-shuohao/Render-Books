@@ -2409,3 +2409,131 @@ https://github.com/yang-shuohao/Render-Books
 ### 37、 空间数据结构（Spatial Data Structures）
 
 ### 38、现代图形硬件（Modern Graphics Hardware）
+
+## OpenGL ES 2 for Android: 快速入门指南（OpenGL ES 2 for Android: A Quick-Start Guide）
+
+![img](https://pica.zhimg.com/80/v2-57c955e84dfcf4be7edc43a3c0ec60c5_720w.jpeg)
+
+
+
+
+
+### 1、入门（Getting Started）
+
+### 2、定义顶点和着色器（Defining Vertices and Shaders）
+
+### 3、编译着色器并绘制到屏幕上（Compiling Shaders and Drawing to the Screen）
+
+### 4、添加颜色和着色（Adding Color and Shade）
+
+### 5、根据屏幕的长宽比进行调整（Adjusting to the Screen’s Aspect Ratio）
+
+### 6、进入三维空间（Entering the Third Dimension）
+
+### 7、用纹理增加细节（Adding Detail with Textures）
+
+### 8、构建简单对象（Building Simple Objects）
+
+### 9、增加触摸反馈：与我们的空气曲棍球游戏互动（Adding Touch Feedback: Interacting with Our Air Hockey Game）
+
+### 10、用粒子调剂事情（Spicing Things Up with Particles）
+
+### 11、添加天空盒（Adding a Skybox）
+
+### 12、添加地形（Adding Terrain）
+
+### 13、 照亮世界（Lighting Up the World）
+
+### 14、创建动态壁纸（Creating a Live Wallpaper）
+
+### 15、迈出下一步（Taking the Next Step）
+
+## WebGL编程指南：用WebGL进行交互式3D图形编程（WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL）
+
+![img](https://pic3.zhimg.com/80/v2-96638904b5681b6f32175d9ce55553a9_720w.jpeg)
+
+
+
+
+
+### 1、WebGL的概述（Overview of WebGL）
+
+### 2、使用WebGL的第一步（Your First Step with WebGL）
+
+### 3、绘制和变换三角形（Drawing and Transforming Triangles）
+
+### 4、更多的变换和基本动画（More Transformations and Basic Animation）
+
+### 5、使用颜色和纹理图像（Using Colors and Texture Images）
+
+### 6、OpenGL ES着色语言（GLSL ES）（The OpenGL ES Shading Language (GLSL ES)）
+
+### 7、走向三维世界（Toward the 3D World）
+
+### 8、照明物体（Lighting Objects）
+
+### 9、层次化的对象（Hierarchical Objects）
+
+### 10、高级技术（Advanced Techniques）
+
+## CUDA Handbook: GPU编程综合指南（CUDA Handbook: A Comprehensive Guide to GPU Programming）
+
+![img](https://pic1.zhimg.com/80/v2-4df515c7c1f70ac3e6ba5b357570e3f4_720w.jpeg)
+
+
+
+
+
+### 1、背景介绍（Background）
+
+### 2、硬件架构（Hardware Architecture）
+
+### 3、软件架构（Software Architecture）
+
+### 4、软件环境（Software Environment）
+
+### 5、内存（Memory）
+
+### 6、流和事件（Streams and Events）
+
+### 7、内核执行（Kernel Execution）
+
+### 8、流式多处理器（Streaming Multiprocessors）
+
+### 9、多GPU（Multiple GPUs）
+
+### 10、纹理（Texturing）
+
+### 11、流式工作负载（Streaming Workloads）
+
+### 12、缩减（Reduction）
+
+### 13、扫描（Scan）
+
+### 14、N-体（N-Body）
+
+### 15、图像处理：归一化的相关度（Image Processing: Normalized Correlation）
+
+## OpenGL开发指南（OpenGL Development Cookbook）
+
+![img](https://pic2.zhimg.com/80/v2-b6383096077621bdbe0e18f01a49516f_720w.jpeg)
+
+
+
+
+
+### 1、现代OpenGL简介（Introduction to Modern OpenGL）
+
+### 2、三维观察和物体拾取（3D Viewing and Object Picking）
+
+### 3、屏幕外的渲染和环境贴图（Offscreen Rendering and Environment Mapping）
+
+### 4、光和阴影（Lights and Shadows）
+
+### 5、网格模型格式和粒子系统（Mesh Model Formats and Particle Systems）
+
+### 6、基于GPU的Alpha混合和全局光照（GPU-based Alpha Blending and Global Illumination）
+
+### 7、基于GPU的体积渲染技术（GPU-based Volume Rendering Techniques）
+
+### 8、在GPU上进行基于骨骼和物理的模拟（Skeletal and Physically-based Simulation on the GPU）
