@@ -1,3 +1,5 @@
+## 前言
+
 渲染是一个令人着迷的方向，可学习渲染着实有不小的难度。
 
 渲染技术不断在发展，各种技术层出不穷，相关英文资料（中文相对少了很多）更是多如牛毛。
@@ -6,13 +8,31 @@
 
 为了帮助自己和广大渲染爱好者更方便的找到自己需要的资料，特意写了这篇文章。
 
-这篇文章（不知道知乎是否有字数限制，若有将分多篇文章）将不断更新渲染相关的书籍，并且列出书籍目录。
+这篇文章将不断更新渲染相关的书籍，并且列出书籍目录。
 
-**列出书籍目录有什么用呢？（个人英语水平有限，目录翻译不对还望指正。）**
+**列出书籍目录有什么用呢？**
 
 比如，我要学习毛发渲染，那么，可以直接浏览器里面Ctrl+F快捷键搜索毛发或hair，就可以直接定位到所有列出书籍的目录有关毛发的内容了，然后就可以找到相关书籍的相关章节进行阅读啦。
 
 **所有书籍PDF将全部上传到Github上面，方便广大好友下载学习。**
+
+## **Preface**
+
+Rendering is a fascinating direction, but learning to render can be quite difficult.
+
+Rendering technology is constantly evolving, and there is a lot of information available in English .
+
+**So how do you find the information you need quickly?**
+
+I wrote this article to help myself and other rendering enthusiasts to find the information they need more easily.
+
+This article will be constantly updated with books related to rendering, and will list the book catalogs.
+
+**What is the purpose of listing the book catalog?**
+
+For example, I want to learn hair rendering, then, you can directly browser inside the Ctrl + F shortcut key search hair, you can directly locate all the books listed in the directory about the content of the hair, and then you can find the relevant books related to the chapter to read it.
+
+**All books PDF will be uploaded to Github above, convenient for the majority of friends to download and learn.**
 
 https://github.com/yang-shuohao/Render-Books
 
