@@ -2537,3 +2537,53 @@ https://github.com/yang-shuohao/Render-Books
 ### 7、基于GPU的体积渲染技术（GPU-based Volume Rendering Techniques）
 
 ### 8、在GPU上进行基于骨骼和物理的模拟（Skeletal and Physically-based Simulation on the GPU）
+
+## GPU Pro 4：高级渲染技术（GPU Pro 4: Advanced Rendering Techniques）
+
+![img](https://pic1.zhimg.com/80/v2-9ce159d760f893e7679bb6c62e0aa1da_720w.jpeg)
+
+
+
+
+
+### 1、GPU 地形细分和镶嵌技术（GPU Terrain Subdivision and Tessellation）
+
+### 2、介绍可编程的顶点拉动渲染管线（Introducing the Programmable Vertex Pulling Rendering Pipeline）
+
+### 3、一个WebGL环球渲染管线（A WebGL Globe Rendering Pipeline）
+
+### 4、使用立方体映射和图像代理的实用平面反射（Practical Planar Reflections Using Cubemaps and Image Proxies）
+
+### 5、实时Ptex和向量位移（Real-Time Ptex and Vector Displacement）
+
+### 6、GPU上的解耦延迟着色（Decoupled Deferred Shading on the GPU）
+
+### 7、分块前向着色（Tiled Forward Shading）
+
+### 8、Forward+: 迈向电影式实时着色的一步（Forward+: A Step Toward Film-Style Shading in Real Time）
+
+### 9、渐进式屏幕空间多通道表面体素化（Progressive Screen-Space Multichannel Surface Voxelization）
+
+### 10、基于光栅化体素的动态全局光照（Rasterized Voxel-Based Dynamic Global Illumination）
+
+### 11、天空之城SWAP Force的景深着色器（The Skylanders SWAP Force Depth-of-Field Shader）
+
+### 12、在后处理景深方法中模拟部分遮挡的情况（Simulating Partial Occlusion in Post-Processing Depth-of-Field Methods）
+
+### 13、二次深度抗锯齿（Second-Depth Antialiasing）
+
+### 14、实用的帧缓冲区压缩（Practical Framebuffer Compression）
+
+### 15、在GPU上进行相干性增强的过滤（Coherence-Enhancing Filtering on the GPU）
+
+### 16、实时深度阴影图（Real-Time Deep Shadow Maps）
+
+### 17、基于方向的引擎架构（An Aspect-Based Engine Architecture）
+
+### 18、 使用Direct3D 11的Kinect编程（Kinect Programming with Direct3D 11）
+
+### 19、自身结构破坏的管道（A Pipeline for Authored Structural Damage）
+
+### 20、DirectCompute上的无堆积LBVH的比特轨迹遍历（Bit-Trail Traversal for Stackless LBVH on DirectCompute）
+
+### 21、使用DirectCompute进行实时JPEG压缩（Real-Time JPEG Compression Using DirectCompute）
