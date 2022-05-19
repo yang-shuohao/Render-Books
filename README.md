@@ -2607,3 +2607,105 @@ https://github.com/yang-shuohao/Render-Books
 ### 20、DirectCompute上的无堆积LBVH的比特轨迹遍历（Bit-Trail Traversal for Stackless LBVH on DirectCompute）
 
 ### 21、使用DirectCompute进行实时JPEG压缩（Real-Time JPEG Compression Using DirectCompute）
+
+## The HDRI Handbook 2.0: 摄影师和CG艺术家的高动态范围成像 （The HDRI Handbook 2.0: High Dynamic Range Imaging for Photographers and CG Artists ）
+
+![img](https://pic2.zhimg.com/80/v2-83142d1035091aaba343c83f175794dc_720w.jpeg)
+
+
+
+
+
+### 1、背景介绍（The Background Story）
+
+### 2、新的工具（New Tools）
+
+### 3、采集HDR图像（Capturing HDR Images）
+
+### 4、色调映射（Tonemapping）
+
+### 5、HDR图像处理（HDR Image Processing）
+
+### 6、全景HDR图像（Panoramic HDR Images）
+
+### 7、基于图像的照明（Image-Based Lighting）
+
+## GPU计算精粹（GPU Computing Gems Jade Edition）
+
+![img](https://pica.zhimg.com/80/v2-803e06e2e1cabe4c447a693d9fcae14a_720w.jpeg)
+
+
+
+
+
+### 1、大规模的GPU搜索（Large-Scale GPU Search）
+
+### 2、图形中心度量的边缘与节点并行性（Edge v. Node Parallelism for Graph Centrality Metrics）
+
+### 3、优化Fermi架构的并行前缀操作（Optimizing Parallel Prefix Operations for the Fermi Architecture）
+
+### 4、在GPU上构建一个高效的哈希表（Building an Efficient Hash Table on the GPU）
+
+### 5、最大网络流量问题的高效CUDA算法（Efficient CUDA Algorithms for the Maximum Network Flow Problem）
+
+### 6、优化GPU上细胞自动机的内存访问模式（Optimizing Memory Access Patterns for Cellular Automata on GPUs）
+
+### 7、快速的最小生成树计算（Fast Minimum Spanning Tree Computation）
+
+### 8、用CUDA进行基于比较的原地排序（Comparison-Based In-Place Sorting with CUDA）
+
+### 9、CUDA的区间算术（Interval Arithmetic in CUDA）
+
+### 10、近似erfinv函数（Approximating the erfinv Function）
+
+### 11、在GPU上解决三边形系统的混合方法（A Hybrid Method for Solving Tridiagonal Systems on the GPU）
+
+### 12、利用混合GPU和多核计算加速CULA线性代数程序（Accelerating CULA Linear Algebra Routines with Hybrid GPU and Multicore Computing）
+
+### 13、GPU加速的无派生网格优化（GPU Accelerated Derivative-Free Mesh Optimization）
+
+### 14、在GPU集群上进行大规模的燃气轮机模拟（Large-Scale Gas Turbine Simulations on GPU Clusters）
+
+### 15、稀有气体动态模拟的GPU加速（GPU Acceleration of Rarefied Gas Dynamic Simulations）
+
+### 16、有限元方法在图形处理器上的应用于实时弹性动力学的装配（Application of Assembly of Finite Element Methods on Graphics Processors for Real-Time Elastodynamics）
+
+### 17、在非结构化网格上用CUDA实现以顶点为中心的有限体积CFD方法的流量控制应用（CUDA Implementation of Vertex-Centered, Finite Volume CFD Methods on Unstructured Grids with Flow Control Applications）
+
+### 18、求解非结构化几何上的波浪方程（Solving Wave Equations on Unstructured Geometries）
+
+### 19、 图形处理单元上的快速电磁积分方程求解器（Fast Electromagnetic Integral Equation Solvers on Graphics Processing Units）
+
+### 20、在GPU上解决大型多体动力学问题（Solving Large Multibody Dynamics Problems on the GPU）
+
+### 21、用于交互式变形仿真的GPU上的隐式有限元求解器（Implicit FEM Solver on GPU for Interactive Deformation Simulation）
+
+### 22、实时自适应的GPU多Agent路径规划（Real-Time Adaptive GPU Multiagent Path Planning）
+
+### 23、用GPU上的高性能有限差分求解器为金融衍生品定价（Pricing Financial Derivatives with High Performance Finite Difference Solvers on GPUs）
+
+### 24、大规模的信用风险损失模拟（Large-Scale Credit Risk Loss Simulation）
+
+### 25、基于蒙特卡洛的金融市场风险价值估算在GPU上的应用（Monte Carlo–Based Financial Market Value-at-Risk Estimation on GPUs）
+
+### 26、Thrust: 以生产力为导向的CUDA库（Thrust: A Productivity-Oriented Library for CUDA）
+
+### 27、用PyCUDA进行GPU脚本和代码生成（GPU Scripting and Code Generation with PyCUDA）
+
+### 28、杰克逊：GPU驱动的MATLAB加速（Jacket: GPU Powered MATLAB Acceleration）
+
+### 29、 用及时的GPU代码生成加速开发和执行速度（Accelerating Development and Execution Speed with Just-in-Time GPU Code Generation）
+
+### 30、使用GPU Ocelot进行GPU应用开发、调试和性能调优（GPU Application Development, Debugging, and Performance Tuning with GPU Ocelot）
+
+### 31、C++中的AoS和SoA布局的抽象化（Abstraction for AoS and SoA Layout in C++）
+
+### 32、用C++元编程处理设备数组（Processing Device Arrays with C++ Metaprogramming）
+
+### 33、GPU元编程：生物启发式机器视觉的案例研究（GPU Metaprogramming: A Case Study in Biologically Inspired Machine Vision）
+
+### 34、 用于GPU的高性能线性代数软件的混合方法（A Hybridization Methodology for High-Performance Linear Algebra Software for GPUs）
+
+### 35、使用工作偷换的动态负载平衡（Dynamic Load Balancing Using Work-Stealing）
+
+### 36、应用软件管理的缓存和CPU/GPU任务调度来加速动态工作负载（Applying Software-Managed Caching and CPU/GPU Task Scheduling for Accelerating Dynamic Workloads）
