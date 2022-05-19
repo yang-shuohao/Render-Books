@@ -2709,3 +2709,191 @@ https://github.com/yang-shuohao/Render-Books
 ### 35、使用工作偷换的动态负载平衡（Dynamic Load Balancing Using Work-Stealing）
 
 ### 36、应用软件管理的缓存和CPU/GPU任务调度来加速动态工作负载（Applying Software-Managed Caching and CPU/GPU Task Scheduling for Accelerating Dynamic Workloads）
+
+## 实时阴影（Real-Time Shadows）
+
+![img](https://pic1.zhimg.com/80/v2-a91ac7419332a8cd9ab2a9c6058d912a_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、基本的阴影技术（Basic Shadow Techniques ）
+
+### 3、阴影贴图走样（Shadow-Map Aliasing）
+
+### 4、阴影贴图采样（Shadow-Map Sampling）
+
+### 5、过滤硬阴影（Filtered Hard Shadows）
+
+### 6、基于图像的软阴影方法（Image-Based Soft-Shadow Methods）
+
+### 7、基于几何的软阴影方法 （Geometry-Based Soft-Shadow Methods ）
+
+### 8、基于图像的透明性（Image-Based Transparency）
+
+### 9、体积阴影（Volumetric Shadows）
+
+### 10、高级阴影主题（Advanced Shadow Topics）
+
+### 11、总结（Conclusion）
+
+## 使用Direct3D 11的实际渲染和计算（Practical Rendering and Computation with Direct3D 11）
+
+![img](https://pic3.zhimg.com/80/v2-5b041837acd2d2ebc0a8419a73dc9165_720w.jpeg)
+
+
+
+
+
+### 1、Direct3D 11的概述 （Overview of Direct3D 11 ）
+
+### 2、Direct3D 11资源（Direct3D 11 Resources）
+
+### 3、渲染管道 （The Rendering Pipeline ）
+
+### 4、镶嵌管线 （The Tessellation Pipeline ）
+
+### 5、计算管线（The Computation Pipeline）
+
+### 6、高级别的着色语言（High Level Shading Language）
+
+### 7、多线程渲染 （Multithreaded Rendering ）
+
+### 8、网格渲染 （Mesh Rendering ）
+
+### 9、动态镶嵌法 （Dynamic Tessellation ）
+
+### 10、图像处理 （Image Processing ）
+
+### 11、延迟渲染（Deferred Rendering）
+
+## 虚拟球体的三维引擎设计（3D Engine Design for Virtual Globes）
+
+![img](https://pic1.zhimg.com/80/v2-4270f02f5dceb0a864b864fd4b221786_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、数学基础（Math Foundations）
+
+### 3、渲染器设计（Renderer Design）
+
+### 4、地球仪渲染图（Globe Rendering）
+
+### 5、顶点变换精度（Vertex Transform Precision）
+
+### 6、深度缓冲精度（Depth Buffer Precision）
+
+### 7、向量数据和多线条（Vector Data and Polylines）
+
+### 8、多边形（Polygons）
+
+### 9、广告牌（Billboards）
+
+### 10、利用资源准备中的并行性（Exploiting Parallelism in Resource Preparation）
+
+### 11、地形基础知识（Terrain Basics）
+
+### 12、大规模地形渲染（Massive-Terrain Rendering）
+
+### 13、几何剪贴图（Geometry Clipmapping）
+
+### 14、分块的LOD （Chunked LOD ）
+
+## 3D游戏编程和计算机图形的数学，第三版（Mathematics for 3D Game Programming and Computer Graphics, Third Edition）
+
+![img](https://pic3.zhimg.com/80/v2-191576c262ec0096386331c9dcfcd22b_720w.jpeg)
+
+
+
+
+
+### 1、渲染管线（The Rendering Pipeline）
+
+### 2、向量（Vectors）
+
+### 3、矩阵（Matrices）
+
+### 4、变换（Transforms）
+
+### 5、三维引擎的几何学 （Geometry for 3D Engines ）
+
+### 6、光线追踪 （Ray Tracing ）
+
+### 7、光照和着色（Lighting and Shading ）
+
+### 8、可见度的确定 （Visibility Determination ）
+
+### 9、多边形技术（Polygonal Techniques ）
+
+### 10、阴影（Shadows）
+
+### 11、曲线和曲面 （Curves and Surfaces ）
+
+### 12、碰撞检测 （Collision Detection ）
+
+### 13、线性物理学 （Linear Physics ）
+
+### 14、旋转物理学（Rotational Physics）
+
+### 15、流体和布料模拟（Fluid and Cloth Simulation）
+
+### 16、数值方法（Numerical Methods）
+
+## 游戏开发工具（Game Development Tools）
+
+![img](https://pic3.zhimg.com/80/v2-c78e2395f506f9094c6ca44e44d641f8_720w.jpeg)
+
+
+
+
+
+### 1、驯服野兽：管理游戏构建管道的复杂性（Taming the Beast: Managing Complexity in Game Build Pipelines）
+
+### 2、游戏流媒体：一个有计划的方法（Game Streaming: A Planned Approach）
+
+### 3、通过自动资产追踪改善工作流程（Workflow Improvement via Automatic Asset Tracking）
+
+### 4、游戏的持续集成（Continuous Integration for Games）
+
+### 5、资产元数据和标签的持久性管理（Persistence Management of Asset Metadata and Tags）
+
+### 6、实时工具通信（Real-Time Tool Communication）
+
+### 7、强大的文件I/O（Robust File I/O）
+
+### 8、实时建设性的实体几何学（Real-Time Constructive Solid Geometry）
+
+### 9、一个COLLADA工具箱（A COLLADA Toolbox）
+
+### 10、保留形状的地形分界线和相关工具（Shape-Preserving Terrain Decimation and Associated Tools）
+
+### 11、游戏中的音频调试工具（In-Game Audio Debugging Tools）
+
+### 12、在工具中务实地使用XML（Pragmatic XML Use in Tools）
+
+### 13、低耦合指挥系统（Low Coupling Command System）
+
+### 14、面向对象的数据（Object-Oriented Data）
+
+### 15、改进Perforce的远程使用（Improving Remote Perforce Usage）
+
+### 16、雕塑工作流程中的矢量置换（Vector Displacement in the Sculpting Workflow）
+
+### 17、优化基于任务的游戏引擎（Optimizing a Task-Based Game Engine）
+
+### 18、用Genetica高效地创建纹理（Efficient Texture Creation with Genetica）
+
+### 19、用Eberos GML2D减少视频游戏创作的工作量（Reducing Video Game Creation Effort with Eberos GML2D）
+
+### 20、YAML for C++ : 应用数据驱动设计（YAML for C++ : Applied Data-Driven Design）
+
+### 21、利用NVIDIA Parallel Nsight进行GPU调试和分析（GPU Debugging and Profiling with NVIDIA Parallel Nsight）
+
+### 22、FBX游戏开发工具（FBX Games Development Tools）
