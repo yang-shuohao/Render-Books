@@ -2897,3 +2897,169 @@ https://github.com/yang-shuohao/Render-Books
 ### 21、利用NVIDIA Parallel Nsight进行GPU调试和分析（GPU Debugging and Profiling with NVIDIA Parallel Nsight）
 
 ### 22、FBX游戏开发工具（FBX Games Development Tools）
+
+## GPU Pro 2：高级渲染技术（GPU Pro 2: Advanced Rendering Techniques）
+
+![img](https://pica.zhimg.com/80/v2-ce23ab6989283bc1888400ec09735e84_720w.jpeg)
+
+
+
+
+
+### 1、使用硬件细分化的地形和海洋渲染（Terrain and Ocean Rendering with Hardware Tessellation）
+
+### 2、实用而真实的面部皱纹动画 （Practical and Realistic Facial Wrinkles Animation ）
+
+### 3、GPU上的程序性内容生成（Procedural Content Generation on the GPU）
+
+### 4、预先集成的皮肤着色（Pre-Integrated Skin Shading）
+
+### 5、使用延迟着色实现毛发（Implementing Fur Using Deferred Shading）
+
+### 6、 户外游戏的大规模地形渲染（Large-Scale Terrain Rendering for Outdoor Games）
+
+### 7、实用形态学抗锯齿（Practical Morphological Antialiasing）
+
+### 8、体积贴花（Volume Decals）
+
+### 9、时间性的屏幕空间环境遮蔽（Temporal Screen-Space Ambient Occlusion）
+
+### 10、层次的细节和流优化的辐照度法向映射（Level-of-Detail and Streaming Optimized Irradiance Normal Mapping）
+
+### 11、使用光线追踪的实时单次弹跳间接照明和阴影（Real-Time One-Bounce Indirect Illumination and Shadows using Ray Tracing）
+
+### 12、半透明均质介质中光传输的实时近似值（Real-Time Approximation of Light Transport in Translucent Homogenous Media）
+
+### 13、具有时间上相干的光传播体积的漫反射全局照明（Diffuse Global Illumination with Temporally Coherent Light Propagation Volumes）
+
+### 14、差异性阴影图 减少出血的技巧（Variance Shadow Maps Light-Bleeding Reduction Tricks）
+
+### 15、通过自适应阴影图的快速软阴影（Fast Soft Shadows via Adaptive Shadow Maps）
+
+### 16、自适应的体积阴影图（Adaptive Volumetric Shadow Maps）
+
+### 17、具有时间相干性的快速柔和阴影（Fast Soft Shadows with Temporal Coherence）
+
+### 18、Mipmapped屏幕空间的软阴影（Mipmapped Screen-Space Soft Shadows）
+
+### 19、一个基于着色器的电子书渲染器（A Shader-Based eBook Renderer）
+
+### 20、移动设备上的后期处理效果（Post-Processing Effects on Mobile Devices）
+
+### 21、基于着色器的水效果（Shader-Based Water Effects）
+
+### 22、实用、动态的游戏可见性（Practical, Dynamic Visibility for Games）
+
+### 23、使用Pixel Quad消息传递的着色器摊销（Shader Amortization using Pixel Quad Message Passing）
+
+### 24、用于实时人群的渲染管道（A Rendering Pipeline for Real-Time Crowds）
+
+### 25、 用GPU生成2D距离场（2D Distance Field Generation with the GPU）
+
+### 26、使用每像素链接列表的顺序无关的透明性（Order-Independent Transparency using Per-Pixel Linked Lists）
+
+### 27、 简单而快速的液体（Simple and Fast Fluids）
+
+### 28、使用多棱镜方法的OpenCL快速泊松求解器（A Fast Poisson Solver for OpenCL using Multigrid Methods）
+
+## 游戏引擎精粹 2（Game Engine Gems 2）
+
+![img](https://pic1.zhimg.com/80/v2-1f905687f37693518edf3a11a619ae5f_720w.jpeg)
+
+
+
+
+
+### 1、严密拟合的定向包围盒的快速计算 （Fast Computation of Tight-Fitting Oriented Bounding Boxes ）
+
+### 2、体积云的建模、照明和渲染技术（Modeling, Lighting, and Rendering Techniques for Volumetric Clouds）
+
+### 3、夜视和红外传感器的模拟（Simulation of Night-Vision and Infrared Sensors ）
+
+### 4、有效延迟着色的屏幕空间分类（Screen-Space Classification for Efficient Deferred Shading ）
+
+### 5、延迟OpenGL的调用（Delaying OpenGL Calls）
+
+### 6、GLSL引擎统一的框架（A Framework for GLSL Engine Uniforms）
+
+### 7、实时图形的空间和时间连贯性框架（A Spatial and Temporal Coherence Framework for Real-Time Graphics ）
+
+### 8、实现快速DDOF求解器 （Implementing a Fast DDOF Solver ）
+
+### 9、自动动态立体三维 （Automatic Dynamic Stereoscopic 3D ）
+
+### 10、实用立体渲染（Practical Stereo Rendering）
+
+### 11、制作3D立体游戏 （Making 3D Stereoscopic Games ）
+
+### 12、一个通用的多视图渲染引擎架构 （A Generic Multiview Rendering Engine Architecture ）
+
+### 13、网络浏览器中的3D （3D in a Web Browser ）
+
+### 14、2D魔术（2D Magic）
+
+### 15、以数据为导向的高性能程序设计（High-Performance Programming with Data-Oriented Design）
+
+### 16、游戏调试基础设施（Game Tuning Infrastructure ）
+
+### 17、静态艺术替换之外的占位符 （Placeholders beyond Static Art Replacement ）
+
+### 18、联网游戏的可信的死期计算 （Believable Dead Reckoning for Networked Games ）
+
+### 19、一个以自我为中心的运动管理系统（An Egocentric Motion Management System）
+
+### 20、指针式修补资产（Pointer Patching Assets）
+
+### 21、数据驱动的声音包加载和组织（Data-Driven Sound Pack Loading and Organization）
+
+### 22、使用GLSL、OpenCL和CUDA的GPGPU布料模拟（GPGPU Cloth Simulation Using GLSL, OpenCL, and CUDA ）
+
+### 23、抖动容忍的刚性体睡眠条件（A Jitter-Tolerant Rigid Body Sleep Condition）
+
+### 24、游戏的比特黑客（Bit Hacks for Games）
+
+### 25、C++游戏引擎的自检（Introspection for C++ Game Engines）
+
+### 26、一个高度优化的便携式内存管理器 （A Highly Optimized Portable Memory Manager ）
+
+### 27、简单的远程堆栈 （Simple Remote Heaps ）
+
+### 28、缓存感知的混合分类器（A Cache-Aware Hybrid Sorter）
+
+### 29、线路通信技术（Thread Communication Techniques）
+
+### 30、一个跨平台的多线程框架（A Cross-Platform Multithreading Framework）
+
+### 31、生产者-消费者队列 （Producer-Consumer Queues ）
+
+## 游戏编程的3D图形（3D Graphics for Game Programming）
+
+![img](https://pic1.zhimg.com/80/v2-4af67165460424065f7b9c94f33ba0f3_720w.jpeg)
+
+
+
+
+
+### 1、游戏制作中的建模（Modeling in Game Production）
+
+### 2、顶点处理（Vertex Processing）
+
+### 3、光栅化（Rasterization）
+
+### 4、片段处理和输出合并（Fragment Processing and Output Merging）
+
+### 5、光照和着色（Illumination and Shaders）
+
+### 6、参数曲线和曲面（Parametric Curves and Surfaces）
+
+### 7、着色模型（Shader Models）
+
+### 8、 图像纹理（Image Texturing）
+
+### 9、凹凸映射（Bump Mapping）
+
+### 10、高级纹理（Advanced Texturing）
+
+### 11、角色动画（Character Animation）
+
+### 12、基于物理的模拟（Physics-based Simulation）
