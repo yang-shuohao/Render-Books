@@ -3063,3 +3063,277 @@ https://github.com/yang-shuohao/Render-Books
 ### 11、角色动画（Character Animation）
 
 ### 12、基于物理的模拟（Physics-based Simulation）
+
+## GPU Pro：高级渲染技术（GPU Pro: Advanced Rendering Techniques）
+
+![img](https://pic3.zhimg.com/80/v2-a013fc60b7b34063efb15d543c75d461_720w.jpeg)
+
+
+
+
+
+### 1、GPU颜色量化（GPU Color Quantization）
+
+### 2、可视化你的阴影贴图技术（Visualize Your Shadow Map Techniques）
+
+### 3、尽可能简单的交互应用镶嵌（As Simple as Possible Tessellation for Interactive Applications）
+
+### 4、基于规则的实时几何合成（Rule-Based Geometry Synthesis in Real-Time）
+
+### 5、基于GPU的NURBS几何图形评估和渲染（GPU-Based NURBS Geometry Evaluation and Rendering）
+
+### 6、用于计算机动画和游戏的多边形功能混合（Polygonal-Functional Hybrids for Computer Animation and Games）
+
+### 7、带有高度混合的四叉树位移映射（Quadtree Displacement Mapping with Height Blending）
+
+### 8、使用几何着色器的NPR效果（NPR Effects Using the Geometry Shader）
+
+### 9、 阿尔法混合作为一种后期处理（Alpha Blending as a Post-Process）
+
+### 10、虚拟纹理贴图101（Virtual Texture Mapping 101）
+
+### 11、用于间接照明的快速、基于模版的多分辨率拼接法（Fast, Stencil-Based Multiresolution Splatting for Indirect Illumination）
+
+### 12、 屏幕空间的方向性遮蔽（Screen-Space Directional Occlusion）
+
+### 13、实时多弹跳光线追踪与几何冒牌货（Real-Time Multi-Bounce Ray-Tracing with Geometry Impostors）
+
+### 14、在GPU上进行各向异性的Kuwahara过滤（Anisotropic Kuwahara Filtering on the GPU）
+
+### 15、通过后期处理进行边缘抗锯齿处理（Edge Anti-aliasing by Post-Processing）
+
+### 16、用弗洛伊德-斯坦伯格半色调绘制环境图（Environment Mapping with Floyd-Steinberg Halftoning）
+
+### 17、分层的项目缓冲区，用于颗粒化的遮挡剔除（Hierarchical Item Buffers for Granular Occlusion Culling）
+
+### 18、后期制作中真实的景深（Realistic Depth of Field in Postproduction）
+
+### 19、实时屏幕空间云计算照明（Real-Time Screen Space Cloud Lighting）
+
+### 20、屏幕空间次表层散射（Screen-Space Subsurface Scattering）
+
+### 21、迁移到OpenGL ES 2.0（Migration to OpenGL ES 2.0）
+
+### 22、基于触摸屏的用户互动（Touchscreen-Based User Interaction）
+
+### 23、iPhone 3GS图形开发和优化策略（iPhone 3GS Graphics Development and Optimization Strategies）
+
+### 24、为移动设备优化3D UI引擎（Optimizing a 3D UI Engine for Mobile Devices）
+
+### 25、快速常规阴影过滤（Fast Conventional Shadow Filtering）
+
+### 26、基于最小/最大平面的混合阴影图（Hybrid Min/Max Plane-Based Shadow Maps）
+
+### 27、使用四面体映射的全向性光的阴影映射（Shadow Mapping for Omnidirectional Light Using Tetrahedron Mapping）
+
+### 28、屏幕空间软阴影（Screen Space Soft Shadows）
+
+### 29、在GPU上使用桶状分类的多碎片效应（Multi-Fragment Effects on the GPU Using Bucket Sort）
+
+### 30、并行光预渲染与蜂窝宽带引擎（Parallelized Light Pre-Pass Rendering with the Cell Broadband Engine）
+
+### 31、在Direct3D9和OpenGL 2.0之间移植代码（Porting Code between Direct3D9 and OpenGL 2.0）
+
+### 32、针对DirectX 9的实用线程渲染（Practical Thread Rendering for DirectX 9）
+
+### 33、孢子中的风格化渲染（Stylized Rendering in Spore）
+
+### 34、 华雷斯的召唤：血脉相连的渲染技术（Rendering Techniques in Call of Juarez: Bound in Blood）
+
+### 35、让它变得更大、更美、更快、更连贯：开发《正当防卫2》的经验之谈（Making it Large, Beautiful, Fast, and Consistent: Lessons Learned Developing Just Cause 2）
+
+### 36、 可毁坏的体积化地形（Destructible Volumetric Terrain）
+
+### 37、通用视觉计算机的并行化实现（Parallelized Implementation of Universal Visual Computer）
+
+### 38、使用CUDA加速虚拟纹理（Accelerating Virtual Texturing Using CUDA）
+
+### 39、 用GigaVoxels高效地渲染高细节的体积化场景（Efficient Rendering of Highly Detailed Volumetric Scenes with GigaVoxels）
+
+### 40、GPU上的空间分选（Spatial Binning on the GPU）
+
+### 41、粒子和动态网格在GPU上的实时互动（Real-Time Interaction between Particles and the Dynamic Mesh on the GPU）
+
+## （High Dynamic Range Imaging: Acquisition, Display, and Image-Based Lighting 2nd）
+
+![img](https://pic2.zhimg.com/80/v2-79a6b8a958a25ba936405d8e4b0840fe_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、光与色（Light and Color）
+
+### 3、高动态范围图像编码（High Dynamic Range Image Encodings）
+
+### 4、高动态范围视频编码（High Dynamic Range Video Encodings）
+
+### 5、HDR图像采集（HDR Image Capture）
+
+### 6、显示设备和印刷技术（Display Devices and Printing Technologies）
+
+### 7、基于感知的色调再现（Perception-Based Tone Reproduction）
+
+### 8、色调再现操作者（Tone-Reproduction Operators）
+
+### 9、逆向色调再现（Inverse Tone Reproduction）
+
+### 10、可见的差异预测因子（Visible Difference Predictors）
+
+### 11、基于图像的光照（Image-Based Lighting）
+
+## 光与皮肤的相互作用：计算机图形应用的模拟（Light and Skin Interactions: Simulations for Computer Graphics Applications）
+
+![img](https://pic2.zhimg.com/80/v2-2fbeb5681161ea9ff7c964174f6e8377_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、光线、光学和外观（Light, optics, and appearance）
+
+### 3、 图像合成的背景（Image-synthesis context）
+
+### 4、 人类皮肤的生物光学特性（Bio-optical properties of human skin）
+
+### 5、健康和生命科学领域的模拟（Simulations in health and life sciences）
+
+### 6、 受生物物理学启发的方法（Biophysically inspired approach）
+
+### 7、 第一原则方法（First principles approach）
+
+### 8、扩散近似的方法（Diffusion approximation approach）
+
+### 9、 仿真挑战（Simulation challenges）
+
+### 10、超越计算机图形应用（Beyond computer graphics applications）
+
+## 游戏编程精粹8（Game Programming Gems 8）
+
+![img](https://pic3.zhimg.com/80/v2-f545620351bb7ecbe1838b25d0559b6e_720w.jpeg)
+
+
+
+
+
+### 1、图形（Graphics）
+
+### 2、物理和动画（Physics and Animation）
+
+### 3、AI（AI）
+
+### 4、通用编程（General Programming）
+
+### 5、 网络和多人游戏（Networking and Multiplayer）
+
+### 6、音频（Audio）
+
+### 7、GPU上的通用计算（General Purpose Computing on GPUs）
+
+## 视频游戏优化（Video Game Optimization）
+
+![img](https://pic1.zhimg.com/80/v2-9a9aca70deb834d9a63aab19552245c0_720w.jpeg)
+
+
+
+
+
+### 1、优化的基础知识（The Basics of Optimization）
+
+### 2、为您的项目进行规划（Planning for Your Project）
+
+### 3、 工具（The Tools）
+
+### 4、硬件基础知识（Hardware Fundamentals）
+
+### 5、整体的视频游戏优化（Holistic Video Game Optimization）
+
+### 6、CPU的约束：内存（CPU Bound: Memory）
+
+### 7、CPU的约束：计算（CPU Bound: Compute）
+
+### 8、从CPU到GPU（From CPU to GPU）
+
+### 9、GPU（The GPU）
+
+### 10、着色器（Shaders）
+
+### 11、网络（Networking）
+
+### 12、大容量存储（Mass Storage）
+
+### 13、并发性（Concurrency）
+
+### 14、控制台（Consoles）
+
+### 15、托管语言（Managed Languages）
+
+### 16、GPGPU（GPGPU）
+
+## 游戏引擎精粹，第一卷（Game Engine Gems, Volume One）
+
+![img](https://pic1.zhimg.com/80/v2-eb452d6f2582620f79d87ab10ddcbb70_720w.jpeg)
+
+
+
+
+
+### 1、在评估整合的中间件时应注意什么？（What to Look for When Evaluating Middleware for Integration）
+
+### 2、游戏资产管道（The Game Asset Pipeline）
+
+### 3、虚拟环境的体积表示法（Volumetric Representation of Virtual Environments）
+
+### 4、高层寻路（High-Level Pathfinding）
+
+### 5、环境声音剔除（Environment Sound Culling）
+
+### 6、一个图形用户界面框架和表现层（A GUI Framework and Presentation Layer）
+
+### 7、世界上最好的碎纸机（World's Best Palettizer）
+
+### 8、三维立体渲染：实现问题概述（3D Stereoscopic Rendering: An Overview of Implementation Issues）
+
+### 9、一个多线程的3D渲染器（  A Multithreaded 3D Renderer）
+
+### 10、用于多线程渲染的以相机为中心的引擎设计（   Camera-Centric Engine Design for Multithreaded Rendering）
+
+### 11、一个由GPU管理的内存池（   A GPU-Managed Memory Pool）
+
+### 12、用于模拟流体动力学的预计算的三维速度场（   Precomputed 3D Velocity Field for Simulating Fluid Dynamics）
+
+### 13、网格划分的乐趣和利益（   Mesh Partitioning for Fun and Profit）
+
+### 14、常见形状的惯性力矩（   Moments of Inertia for Common Shapes）
+
+### 15、基于物理的户外场景照明（   Physically-Based Outdoor Scene Lighting）
+
+### 16、渲染基于物理的天空盒（   Rendering Physically-Based Skyboxes）
+
+### 17、运动模糊和速度-深度-梯度缓冲器（   Motion Blur and the Velocity-Depth-Gradient Buffer）
+
+### 18、快速屏幕空间的环境遮蔽和间接照明（   Fast Screen-Space Ambient Occlusion and Indirect Lighting）
+
+### 19、实时人物肢解（   Real-Time Character Dismemberment）
+
+### 20、一种延迟贴花的渲染技术（   A Deferred Decal Rendering Technique）
+
+### 21、多线程对象模型（   Multithreaded Object Models）
+
+### 22、常见游戏架构模式的整体任务并行化（   Holistic Task Parallelism for Common Game Architecture Patterns）
+
+### 23、动态代码执行层级（   Dynamic Code Execution Hierarchies）
+
+### 24、键值字典（   Key-Value Dictionary）
+
+### 25、一个基本的调度器（   A Basic Scheduler）
+
+### 26、游戏状态观察者模式（   The Game State Observer Pattern）
+
+### 27、使用Cordic方法进行快速三角运算（   Fast Trigonometric Operations Using Cordic Methods）
+
+### 28、基于你自己的RPC子系统的进程间通信（   Inter-Process Communication Based on Your Own RPC Subsystem）
