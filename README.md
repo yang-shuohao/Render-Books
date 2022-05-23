@@ -3337,3 +3337,91 @@ https://github.com/yang-shuohao/Render-Books
 ### 27、使用Cordic方法进行快速三角运算（   Fast Trigonometric Operations Using Cordic Methods）
 
 ### 28、基于你自己的RPC子系统的进程间通信（   Inter-Process Communication Based on Your Own RPC Subsystem）
+
+## 实时摄像机（Real-Time Cameras）
+
+![img](https://pic2.zhimg.com/80/v2-724113dec3fb9370c89fa86692d96f1a_720w.jpeg)
+
+
+
+
+
+### 1、游戏简介（Game overview）
+
+### 2、相机基础知识（Camera fundamentals）
+
+### 3、摄影（Cinematography）
+
+### 4、摄像机设计（Camera design）
+
+### 5、摄像机解决方案（Camera solutions）
+
+### 6、摄像机脚本（Camera scripting）
+
+### 7、位置和方向（Position and orientation）
+
+### 8、导航和闭塞（Navigation and occlusion）
+
+### 9、运动和碰撞（Motion and collision）
+
+### 10、 相机数学（Camera mathematics）
+
+### 11、实现（Implementation）
+
+## 计算机面部动画第2版（Computer Facial Animation 2nd）
+
+![img](https://pica.zhimg.com/80/v2-d1cc438baae867de629d56d0a39bb70b_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、面部分析和编码（Face Analysis and Coding）
+
+### 3、面部、头部和颈部的解剖学（Anatomy of the Face, Head, and Neck）
+
+### 4、脸部建模（Modeling Faces）
+
+### 5、面部动画（Facial Animation）
+
+### 6、 面部图像合成（Facial Image Synthesis）
+
+### 7、参数化人脸模型（Parameterized Face Models）
+
+### 8、基于皮肤和肌肉的面部动画（Skin and Muscle-Based Facial Animation）
+
+### 9、语音同步动画（Speech-Synchronized Animation）
+
+### 10、性能动画（Performance Animation）
+
+### 11、头发的建模和动画（Modeling and Animating Hair）
+
+## 材料外观的数字建模（摩根考夫曼计算机图形系列） （Digital Modeling of Material Appearance (The Morgan Kaufmann Series in Computer Graphics) ）
+
+![img](https://pic3.zhimg.com/80/v2-ef61bbbb694d9c8cb3183ca9d191798b_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、背景（Background）
+
+### 3、观察和分类（Observation and Classification）
+
+### 4、数学术语（Mathematical Terms）
+
+### 5、一般材料模型（General Material Models）
+
+### 6、专门的材料模型（Specialized Material Models）
+
+### 7、测量（Measurement）
+
+### 8、老化和风化（Aging and Weathering）
+
+### 9、指定和编码外观描述（Specifying and Encoding Appearance Descriptions）
+
+### 10、渲染外观（Rendering Appearance）
