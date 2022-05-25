@@ -1774,6 +1774,38 @@ https://github.com/yang-shuohao/Render-Books
 
 ### 17、交互式稀疏欧拉流体（Interactive Sparse Eulerian Fluid）
 
+## 介绍3D游戏编程与DirectX 12（**Introduction to 3D Game Programming with DirectX 12**）
+
+![img](https://pic2.zhimg.com/80/v2-b2f9fd34ffffd37cfee3db17771f8fe4_720w.jpeg)
+
+
+
+
+
+## 一个周末的光线追踪（Ray Tracing in One Weekend）
+
+![img](https://pic2.zhimg.com/80/v2-1a156e78ad6e40b9a3a67e2ffec3026c_720w.jpeg)
+
+
+
+
+
+## 光线追踪：下一周（Ray Tracing: the Next Week）
+
+![img](https://pic1.zhimg.com/80/v2-b791af200f808fcd37a86fbc5a5ca561_720w.jpeg)
+
+
+
+
+
+## 光线追踪：你的余生（Ray Tracing: The Rest Of Your Life）
+
+![img](https://pica.zhimg.com/80/v2-ac74e0dedb2836b98e24a19ed5e83ba0_720w.jpeg)
+
+
+
+
+
 ## 游戏和互动应用的基本数学，第三版（Essential Mathematics for Games and Interactive Applications, Third Edition）
 
 ![img](https://pic2.zhimg.com/80/v2-3b826bbd372ec12920e892fa233d5e1f_720w.jpeg?source=d16d100b)
@@ -3425,3 +3457,270 @@ https://github.com/yang-shuohao/Render-Books
 ### 9、指定和编码外观描述（Specifying and Encoding Appearance Descriptions）
 
 ### 10、渲染外观（Rendering Appearance）
+
+## GPU Gems 3（GPU Gems 3）
+
+![img](https://pic1.zhimg.com/80/v2-44ee192105864c6a3ec4c14c0245547e_720w.jpeg)
+
+
+
+
+
+## 彩色成像：基本原理和应用（Color Imaging: Fundamentals and Applications）
+
+![img](https://pic2.zhimg.com/80/v2-edf648bb3fbea97ec4170e565d6acd5a_720w.jpeg)
+
+
+
+
+
+### 1、介绍（Introduction）
+
+### 2、光的物理特性（Physics of Light）
+
+### 3、物质的化学性（Chemistry of Matter）
+
+### 4、人类视觉（Human Vision）
+
+### 5、感知（Perception）
+
+### 6、 辐射测量和光度测量（Radiometry and Photometry）
+
+### 7、色度测量法（Colorimetry）
+
+### 8、颜色空间（Color Spaces）
+
+### 9、光照（Illuminants）
+
+### 10、色调适应（Chromatic Adaptation）
+
+### 11、颜色和图像外观模型（Color and Image Appearance Models）
+
+### 12、 图像采集（Image Capture）
+
+### 13、高动态范围图像采集（High Dynamic Range Image Capture）
+
+### 14、 显示技术（Display Technologies）
+
+### 15、图像属性和图像显示（Image Properties and Image Display）
+
+### 16、颜色管理（Color Management）
+
+### 17、动态范围减少（Dynamic Range Reduction）
+
+## 面向游戏开发者的数据结构和算法（Data structures and algorithms for game developers）
+
+![img](https://pica.zhimg.com/80/v2-7b9a86407e7ca66ba298f1d073c669e4_720w.jpeg)
+
+
+
+
+
+### 1、数据结构简介（Introduction to Data Structures）
+
+### 2、数组（Arrays）
+
+### 3、递归（Recursion）
+
+### 4、介绍排序（Introduction to Sorting）
+
+### 5、链表（Link Lists）
+
+### 6、 栈和队列（Stacks and Queues）
+
+### 7、哈希表（Hash Tables）
+
+### 8、高级排序（Advanced Sorting）
+
+### 9、树（Trees）
+
+### 10、堆（Heaps）
+
+### 11、图（Graphs）
+
+### 12、 额外的STL算法（Additional STL Algorithms）
+
+### 13、场景管理（Scene Management）
+
+### 14、 数据压缩（Data Compression）
+
+### 15、总结（Conclusions）
+
+## 游戏物理引擎开发：如何为你的游戏建立一个强大的商业级物理引擎（Game physics engine development: how to build a robust commercial-grade physics engine for your game）
+
+![img](https://pica.zhimg.com/80/v2-0b1f7e7702fb420e9cbd857a3c1f0a3e_720w.jpeg)
+
+
+
+
+
+## 实时体积图形（Real-Time Volume Graphics）
+
+![img](https://pic2.zhimg.com/80/v2-25b2263f25d67b7571d682fa55767d6f_720w.jpeg)
+
+
+
+
+
+### 1、理论背景和基本方法（Theoretical Background and Basic Approaches）
+
+### 2、GPU编程（GPU Programming）
+
+### 3、基于GPU的体积渲染基础（Basic GPU-Based Volume Rendering）
+
+### 4、传递函数（Transfer Functions）
+
+### 5、局部体积照明（Local Volume Illumination）
+
+### 6、 全局体积照明（Global Volume Illumination）
+
+### 7、基于GPU的光线投射（GPU-Based Ray Casting）
+
+### 8、提高性能（Improving Performance）
+
+### 9、 提高图像质量（Improving Image Quality）
+
+### 10、传递函数的重构（Transfer Functions Reloaded）
+
+### 11、游戏开发者的体积图形指南（Game Developer's Guide to Volume Graphics）
+
+### 12、体积模型（Volume Modeling）
+
+### 13、体积变形和动画（Volume Deformation and Animation）
+
+### 14、非写实和插图技术（Non-Photorealistic and Illustrative Techniques）
+
+### 15、体积剪裁（Volume Clipping）
+
+### 16、分段体积数据（Segmented Volume Data）
+
+### 17、大容量数据（Large Volume Data）
+
+## 计算机图形学的几何数据结构（Geometric Data Structures for Computer Graphics）
+
+![img](https://pic1.zhimg.com/80/v2-9dd7194402c9cdd3be48f84b057bfb02_720w.jpeg)
+
+
+
+
+
+### 1、四叉树和八叉树（Quadtrees and Octrees）
+
+### 2、正交窗口和刺探查询（Orthogonal Windowing and Stabbing Queries）
+
+### 3、BSP树（BSP Trees）
+
+### 4、层次包围盒（Bounding Volume Hierarchies）
+
+### 5、距离场（Distance Fields）
+
+### 6、 沃罗伊图（Voronoi Diagrams）
+
+### 7、几何近似图（Geometric Proximity Graphs）
+
+### 8、动力学数据结构（Kinetic Data Structures）
+
+### 9、 退化和稳健性（Degeneracy and Robustness）
+
+### 10、几何数据结构的动态化（Dynamization of Geometric Data Structures）
+
+## GPU Gems 2: 高性能图形和通用计算的编程技术（GPU Gems 2: Programming Techniques For High-Performance Graphics And General-Purpose Computation）
+
+![img](https://pic1.zhimg.com/80/v2-adb6b6635ee015e2c47951b2340fe480_720w.jpeg)
+
+
+
+
+
+## GPU Gems: 实时图形的编程技术、技巧和窍门 （GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics ）
+
+![img](https://pic1.zhimg.com/80/v2-3f97afb2a2e9870e5351b2578fde3d4a_720w.jpeg)
+
+
+
+
+
+### （ShaderX2: Shader Programming Tips and Tricks with DirectX 9.0）
+
+![img](https://pic3.zhimg.com/80/v2-c9a1c04438a9c0eda22c78c83f7391e9_720w.jpeg)
+
+
+
+
+
+### 1、几何操作技巧（Geometry Manipulation Tricks）
+
+### 2、渲染技巧（Rendering Techniques）
+
+### 3、软件着色器和着色器编程技巧（Software Shaders and Shader Programming Tips）
+
+### 4、图像空间（Image Space）
+
+### 5、阴影（Shadows）
+
+### 6、三维引擎和工具设计（3D Engine and Tools Design）
+
+## ShaderX2：介绍和使用Directx 9的教程 （ShaderX2: Introduction & Tutorials with Directx 9 ）
+
+![img](https://pic2.zhimg.com/80/v2-a85a90523f0cd932c77a9dab9709a449_720w.jpeg)
+
+
+
+
+
+### 1、DirectX高级着色语言简介（Introduction to the DirectX High Level Shading Language）
+
+### 2、vs_3_0和ps_3_0着色器模型介绍（Introduction to the vs_3_0 and ps_3_0 Shader Models）
+
+### 3、使用Direct3D 9的高级照明和阴影（Advanced Lighting and Shading with Direct3D 9）
+
+### 4、不同雾化效果的介绍（Introduction to Different Fog Effects）
+
+### 5、使用Direct3D 9的阴影贴图（Shadow Mapping with Direct3D 9）
+
+### 6、 模板阴影卷理论（The Theory of Stencil Shadow Volumes）
+
+### 7、使用RenderMonkey开发着色器（Shader Development Using RenderMonkey）
+
+### 8、创建适合着色器的3D模型的技巧（Tips for Creating Shader-Friendly 3D Models）
+
+## CG教程：可编程实时图形的权威指南（The CG Tutorial: The Definitive Guide to Programmable Real-Time Graphics）
+
+![img](https://pic2.zhimg.com/80/v2-6b23b32485bb4b5128091d305e94b098_720w.jpeg)
+
+
+
+
+
+## 迈克尔-阿布拉什的图形编程黑皮书，特别版（Michael Abrash’s Graphics Programming Black Book, Special Edition）
+
+![img](https://pica.zhimg.com/80/v2-67ea11d1afe8a4a5c80839bb58da1004_720w.jpeg)
+
+
+
+
+
+## 数字图像合成的原理（Principles of Digital Image Synthesis）
+
+![img](https://pic2.zhimg.com/80/v2-425763240e4589a53da3ddb27f78248a_720w.jpeg)
+
+
+
+
+
+## 模拟人类：计算机图形动画和控制（Simulating Humans: Computer Graphics Animation and Control）
+
+![img](https://pic1.zhimg.com/80/v2-83599e197890b600ca078bc74dde72e4_720w.jpeg)
+
+
+
+
+
+## 几何计算简介（Introduction to Computing with Geometry）
+
+![img](https://pic3.zhimg.com/80/v2-a4965c1317f2f8241e8ea7d6f6db7049_720w.jpeg)
+
+
+
+
+
