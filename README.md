@@ -3720,6 +3720,10 @@ https://github.com/yang-shuohao/Render-Books
 
 ![img](https://pic3.zhimg.com/80/v2-a4965c1317f2f8241e8ea7d6f6db7049_720w.jpeg)
 
+## 交互式3D环境中的碰撞检测（Collision Detection in Interactive 3D Environments）
+
+![img](https://pic1.zhimg.com/80/v2-e9a3367e1c16d577990951ff7d52afa8_720w.jpeg)
+
 
 
 
