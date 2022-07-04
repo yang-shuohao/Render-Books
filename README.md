@@ -1,14 +1,14 @@
 ## 前言
 
-渲染是一个令人着迷的方向，可学习渲染着实有不小的难度。
+游戏引擎开发是一个令人着迷的方向，可学习游戏引擎开发着实有不小的难度。
 
-渲染技术不断在发展，各种技术层出不穷，相关英文资料（中文相对少了很多）更是多如牛毛。
+游戏引擎开发技术不断在发展，各种技术层出不穷，相关英文资料（中文相对少了很多）更是多如牛毛。
 
 **那么如何快速找到自己需要的资料呢？**
 
-为了帮助自己和广大渲染爱好者更方便的找到自己需要的资料，特意写了这篇文章。
+为了帮助自己和广大游戏引擎开发爱好者更方便的找到自己需要的资料，特意写了这篇文章。
 
-这篇文章将不断更新渲染相关的书籍，并且列出书籍目录。
+这篇文章将不断更新游戏引擎开发相关的书籍，并且列出书籍目录。
 
 **列出书籍目录有什么用呢？**
 
@@ -18,15 +18,13 @@
 
 ## **Preface**
 
-Rendering is a fascinating direction, but learning to render can be quite difficult.
+Game engine development technology continues to develop, various technologies emerge in an endless stream, related information is more than a thousand hair.
 
-Rendering technology is constantly evolving, and there is a lot of information available in English .
+**So how to quickly find the information you need?**
 
-**So how do you find the information you need quickly?**
+In order to help themselves and the vast number of game engine development enthusiasts more convenient to find their own needs of information, specially written this article.
 
-I wrote this article to help myself and other rendering enthusiasts to find the information they need more easily.
-
-This article will be constantly updated with books related to rendering, and will list the book catalogs.
+This article will update the books on game engine development and will include a table of contents.
 
 **What is the purpose of listing the book catalog?**
 
